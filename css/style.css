@@ -65,6 +65,7 @@ main .top-img img{
     font-weight: 400;
 
     margin-top: 2rem;
+    margin-bottom: 1.5rem;
 
     color: var(--DarkCharcoal);
 }
